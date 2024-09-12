@@ -24,3 +24,13 @@
 #### Expected Brand Count: The expected count of brands associated with the product.
 
 ## Step
+#### The “Product Image Url” and “Product Url” columns contain URLs to images and product pages. These columns were not needed for the analysis so they were removed from the table or dataset.
+#### Created new measure sum of product price gives the total sales of nykaa product.
+#### For comprehensive visualization created bar chart , pie chart , treemap etc .
+
+## Insights
+#### Based on visualization top 3 nykaa sales product are 'L'Occitane Immortelle Divine Cream' ,'Charlotte Tilbury Luxury palette-the sophisticate', 'DIOR Miss Dior Absolutely Blooming Eau De Parfum'
+#### Top 3 nykaa sales product brand 'Inner Sense', 'Bobbi Brown', 'Charlotte Tilbury'
+#### Most reviews product brand are 'Nykaa Naturals' 32885 , 'Biotique' 30726, 'Lakme' 18376.
+#### Most reviews by product name are 'Biotique Bio Papaya Revitalizing Tan Removal Scrub', 'Nykaa Natural Citronella Essential Oil', 'Lakme 9 to 5 Matte Mousse Lip and Cheek Color - Pink Blush'
+#### 
