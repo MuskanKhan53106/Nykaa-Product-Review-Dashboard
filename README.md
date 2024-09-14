@@ -29,8 +29,11 @@
 #### For comprehensive visualization created bar chart , pie chart , treemap etc .
 
 ## Insights
-#### Based on visualization top 3 nykaa sales product are 'L'Occitane Immortelle Divine Cream' ,'Charlotte Tilbury Luxury palette-the sophisticate', 'DIOR Miss Dior Absolutely Blooming Eau De Parfum'
-#### Top 3 nykaa sales product brand 'Inner Sense', 'Bobbi Brown', 'Charlotte Tilbury'
-#### Most reviews product brand are 'Nykaa Naturals' 32885 , 'Biotique' 30726, 'Lakme' 18376.
-#### Most reviews by product name are 'Biotique Bio Papaya Revitalizing Tan Removal Scrub', 'Nykaa Natural Citronella Essential Oil', 'Lakme 9 to 5 Matte Mousse Lip and Cheek Color - Pink Blush'
-#### 
+#### Based on visualization top 3 nykaa's best selling product are *'L'Occitane Immortelle Divine Cream' ,'Charlotte Tilbury Luxury palette-the sophisticate', 'DIOR Miss Dior Absolutely Blooming Eau De Parfum'*
+#### Top 3 selling product brand* 'Inner Sense', 'Bobbi Brown', 'Charlotte Tilbury'*
+#### Most reviewed product brand are *'Nykaa Naturals' 32885 , 'Biotique' 30726, 'Lakme' 18376.*
+#### Most reviewed  product name are *'Biotique Bio Papaya Revitalizing Tan Removal Scrub', 'Nykaa Natural Citronella Essential Oil', 'Lakme 9 to 5 Matte Mousse Lip and Cheek Color - Pink Blush'*
+#### Makeup lipstick,face blush , liquid lipstick , nail polish product of these category most sell in nykaa
+#### Total sale 621k
+#### Average product rating 4.2
+#### Total reviews count 201k
